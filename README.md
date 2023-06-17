@@ -10,7 +10,7 @@ The sentiment analysis project is designed to analyze the sentiment of text data
 
 **Features**
 
-Preprocess text data by removing noise, cleaning, and tokenization.
-Perform feature extraction.
-Train and evaluate sentiment analysis models using machine learning algorithms.
-Visualize evaluation metrics and results using graphs.
+1. Preprocess text data by removing noise, cleaning, and tokenization.
+2. Perform feature extraction.
+3. Train and evaluate sentiment analysis models using machine learning algorithms.
+4. Visualize evaluation metrics and results using graphs.
