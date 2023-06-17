@@ -28,7 +28,7 @@ The sentiment analysis model is trained using the Multinomial Naive Bayes classi
 
 The sentiment analysis model achieved the following performance on the test dataset:
 
-precision    recall  f1-score   support
+                  precision    recall  f1-score   support
 
            0       1.00      0.95      0.97      1620
            1       0.84      0.99      0.91       443
