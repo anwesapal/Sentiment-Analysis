@@ -20,10 +20,12 @@ The sentiment analysis project is designed to analyze the sentiment of text data
 The sentiment analysis model is trained and tested on the sentiment_tweets3 dataset. The dataset contains a collection of labeled text data with corresponding sentiment labels (positive or negative). The dataset is available at [https://www.kaggle.com/datasets/gargmanas/sentimental-analysis-for-tweets] 
 
 **Model Training**
+
 The sentiment analysis model is trained using the Multinomial Naive Bayes classifier. The training process includes data preprocessing, feature extraction, model training, and evaluation. 
 
 
 **Results**
+
 The sentiment analysis model achieved the following performance on the test dataset:
 
 precision    recall  f1-score   support
@@ -36,6 +38,7 @@ precision    recall  f1-score   support
 weighted avg       0.96      0.96      0.96      2063
 
 **Future Work**
+
 In future iterations, the sentiment analysis project can be expanded by:
 
 * Including sentiment analysis for different languages.
