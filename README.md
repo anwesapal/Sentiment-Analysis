@@ -34,8 +34,7 @@ The sentiment analysis model achieved the following performance on the test data
            1       0.84      0.99      0.91       443
 
     accuracy                           0.96      2063
-   macro avg       0.92      0.97      0.94      2063
-weighted avg       0.96      0.96      0.96      2063
+   
 
 **Future Work**
 
