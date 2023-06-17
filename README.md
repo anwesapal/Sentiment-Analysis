@@ -14,3 +14,7 @@ The sentiment analysis project is designed to analyze the sentiment of text data
 2. Perform feature extraction.
 3. Train and evaluate sentiment analysis models using machine learning algorithms.
 4. Visualize evaluation metrics and results using graphs.
+
+**Dataset**
+
+The sentiment analysis model is trained and tested on the sentiment_tweets3 dataset. The dataset contains a collection of labeled text data with corresponding sentiment labels (positive or negative). The dataset is available at [https://www.kaggle.com/datasets/gargmanas/sentimental-analysis-for-tweets] 
